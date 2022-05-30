@@ -1,4 +1,7 @@
 # Next Movies
+|<img src="https://user-images.githubusercontent.com/70682706/170987173-9279f9c6-cc92-41c2-aaf5-09af49ff25bb.png" width="80%" height="80%" alt="index-wide" />|
+|:-:|
+|Home|
 
 ## About
 NextJS로 구현한 영화 웹사이트.
